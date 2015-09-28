@@ -38,3 +38,5 @@ telescope:update-prompt
 ############ Your Custom Packages ############
 
 # custom
+telescope:debug
+pauli:accounts-linkedin
